@@ -1,0 +1,4 @@
+This is the plan for the website that we are going to create for John The Car Dealer.
+
+Developers: Joe, Abdul, Joshua.
+
