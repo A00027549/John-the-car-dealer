@@ -1,0 +1,9 @@
+/* fills the whole screen */
+.header{
+    width: 100%;
+    background: linear-gradient(to right, #00000083, #00000000),url(./assets/pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}

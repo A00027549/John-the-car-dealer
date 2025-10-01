@@ -1,0 +1,22 @@
+#form-section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    border: solid thin rgb(23, 21, 46);
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 90%;
+    width: 60vw;
+}
+.separator{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    height: 1px;
+    width: 60%;
+}

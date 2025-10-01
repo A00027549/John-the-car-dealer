@@ -15,6 +15,6 @@ window.addEventListener("DOMContentLoaded",(ev)=>{
 
         header.style.backgroundImage = `linear-gradient(to right, #00000083, #00000000),url(./assets/${images[iterator]}.jpg)`;
         iterator = iterator > images.length ? 0 : iterator + 1;
-    },10000)
+    },4000)
 
 })
