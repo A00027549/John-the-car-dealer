@@ -7,3 +7,36 @@
     background-position: center;
     height: 100vh;
 }
+.first-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.first-section-main-container{
+    max-width: 800px;
+    position: relative;
+    height: fit-content;
+}
+#first-section-header-text{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+}
+.turnable-image-container{
+    position: relative;
+}
+.turnable-image{
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(60, 60, 75);
+    box-shadow:
+    rgba(67, 91, 112, 0.42) 0px 60px 123px -25px,
+    rgba(62, 81, 99, 0.08) 0px 35px 75px -35px;
+    border: hidden;
+    border-radius: 20px;
+    transform:
+    rotateX(85deg)
+    rotateZ(180deg);
+    transform-style: preserve-3d;
+}

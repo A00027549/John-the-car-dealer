@@ -15,5 +15,15 @@ window.addEventListener("DOMContentLoaded",(ev)=>{
         header.style.backgroundImage = `linear-gradient(to bottom, #00000063, #000000),url(./assets/${images[iterator]}.jpg)`;
         iterator = iterator > images.length ? 0 : iterator + 1;
     },4000)
-
+    
+    //work on each turnable image
+    const turnableImages = document.querySelectorAll(".turnable-image")
+    let index = 0
+    turnableImages.forEach((turnableImage)=>{
+        turnableImage.style.zIndex = `${index}`
+        index--;
+    })
 })
+
+
+window.addEventListener("scroll", (ev)=>{})
