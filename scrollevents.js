@@ -4,4 +4,6 @@ window.addEventListener("DOMContentLoaded",()=>{
             console.log(entry.target.classList.toString())
         })
     })
+
+    observer.observe()
 })

@@ -12,8 +12,7 @@ window.addEventListener("DOMContentLoaded",(ev)=>{
     const header = document.querySelector("header");
     let iterator = 0;
     setInterval(()=>{
-
-        header.style.backgroundImage = `linear-gradient(to right, #00000083, #00000000),url(./assets/${images[iterator]}.jpg)`;
+        header.style.backgroundImage = `linear-gradient(to bottom, #00000063, #000000),url(./assets/${images[iterator]}.jpg)`;
         iterator = iterator > images.length ? 0 : iterator + 1;
     },4000)
 
