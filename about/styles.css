@@ -1,0 +1,63 @@
+#about-title-container{
+    display: flex;
+    width: 600px;
+    margin: 40px;
+    max-width: 600px;
+    animation: fade-in 2s ease-in forwards;
+}
+#about-title{
+    font-size: 5.5rem;
+    font-weight: 400;
+}
+
+
+#about-flow{
+    display: flex;
+    width: 100%;
+}
+
+.contains-line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+}
+
+#horizontal-line-track{
+    background-color: white;
+    border: hidden;
+    border-radius: 2px;
+    height: 100%;
+    width: 2px;
+}
+
+
+.about-info{
+    width: 80%;
+    padding: 15px;
+}
+
+.info-section-container{
+    margin-bottom: 30px;
+}
+
+.info-section-header{
+    margin-bottom: 10px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.info-section-details{
+    word-spacing: 0.5em;
+    text-justify: distribute-all-lines;
+    line-height: 30px;
+}
+
+@keyframes fade-in {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
