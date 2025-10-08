@@ -13,7 +13,7 @@ window.addEventListener("DOMContentLoaded",(ev)=>{
     let iterator = 0;
     setInterval(()=>{
         header.style.backgroundImage = `linear-gradient(to bottom, #00000063, #000000),url(./assets/${images[iterator]}.jpg)`;
-        iterator = iterator > images.length ? 0 : iterator + 1;
+        iterator = iterator == images.length - 1 ? 0 : iterator + 1;
     },4000)
     
     //work on each turnable image

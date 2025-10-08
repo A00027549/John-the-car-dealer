@@ -1,9 +1,8 @@
 window.addEventListener("DOMContentLoaded",()=>{
-    const observer = new IntersectionObserver((entries)=>{
-        entries.forEach((entry)=>{
-            console.log(entry.target.classList.toString())
-        })
-    })
+    
+})
 
-    observer.observe()
+window.addEventListener("scroll", ()=>{
+    //check each element in the scroll area
+    
 })
