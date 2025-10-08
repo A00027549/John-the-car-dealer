@@ -7,7 +7,8 @@ The website also avoid colours like red-green and blue-yellow, as these colours 
 The website also follow the WCAG guidlines for accesibility, for example we follow their contrast ratio, as they recomend it for 
 allowing a universal user experience. We implemented alt test for the images on the website, this allows for users using a screen reader to have
 a much better user experience as the alt text is read out. This may also prove usefull for users that are colour blind as some of the images
-may be hard for them to decipher.
+may be hard for them to decipher. Text that is more important is in bold and is also larger than the surrounding text. No information is conveyed 
+by colour alone.
 
 Kind Regards,
 The Development Team.
