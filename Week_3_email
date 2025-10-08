@@ -1,0 +1,13 @@
+Dear John O'Reily,
+We hope this email finds you well, we are emailing to inform you on our decesions about certain aspects of the website. 
+We understand as per your request that you would like for the webpage to cater for colour blind individuals like yourself.
+We have adhered to this request by implementing certain design elements to the website. For example, the simple black and white 
+contrast of the background and the text allows for colour blind users to have just as much readablility as non-colour blind users+.
+The website also avoid colours like red-green and blue-yellow, as these colours often make it dificult for colour blind individuals to differentiate.
+The website also follow the WCAG guidlines for accesibility, for example we follow their contrast ratio, as they recomend it for 
+allowing a universal user experience. We implemented alt test for the images on the website, this allows for users using a screen reader to have
+a much better user experience as the alt text is read out. This may also prove usefull for users that are colour blind as some of the images
+may be hard for them to decipher.
+
+Kind Regards,
+The Development Team.
