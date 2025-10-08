@@ -5,7 +5,7 @@ Hope this email finds you well.
 We as a development team have decided to create the website with a sleek and stylish design, the design has a darker themed background for an easy
 user experience. The website includes three main pages, per your request. The main page includes some images of cars and a way to contact you.
 The home page is by far the most important part of the website as it is the first thing the user will see and the only thing the user is guarenteed to see.
-The second page we have created is the about page, on this page the user can get some information about Wheels On Fire. This page is very impportant as it 
+The second page we have created is the about page, on this page the user can get some information about Wheels On Fire and where you can showccase your car collection as per the request.This page is very impportant as it 
 allows the user to gain an understanding into Wheels On Fire. The third webpage we made is the contact page, on this webpage the user will be able to contact
 Wheels On Fire directly, by emailing the email or phone number provided. 
 Let us know if you want to make any changes or adjustments.
