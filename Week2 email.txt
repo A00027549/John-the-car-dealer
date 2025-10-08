@@ -2,15 +2,12 @@ Dear Client,
 
 Hope this email finds you well.  
 
-I am pleased to inform you that we have designed a prototype of your website for your review. 
-
-Kindly go through them and let us know what changes you would like us to include, as well as edits you would want us to make on these prototypes.
-Some of the features on the website include; A preview of the OMSP of the vehicle, a clean and easy to read website and an idea for your new logo.
-
-We would move on with the next stage of development as soon as your feedback has been received. Please inspect the website carefully and feel free to make any comments 
-or suggestions as it is your website at the end of the day :)
-
-Thank you.
-
-Your sincerely,
-Development team
+We as a development team have decided to create the website with a sleek and stylish design, the design has a darker themed background for an easy
+user experience. The website includes three main pages, per your request. The main page includes some images of cars and a way to contact you.
+The home page is by far the most important part of the website as it is the first thing the user will see and the only thing the user is guarenteed to see.
+The second page we have created is the about page, on this page the user can get some information about Wheels On Fire. This page is very impportant as it 
+allows the user to gain an understanding into Wheels On Fire. The third webpage we made is the contact page, on this webpage the user will be able to contact
+Wheels On Fire directly, by emailing the email or phone number provided. 
+Let us know if you want to make any changes or adjustments.
+Kind Regards,
+The Development Team
